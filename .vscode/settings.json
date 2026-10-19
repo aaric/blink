@@ -15,5 +15,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=e:\\Workspaces\\Arm\\ESP\\blink\\build"
-  ]
+  ],
+  "idf.port": "COM3"
 }
